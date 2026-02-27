@@ -1,2 +1,3 @@
 # Ace_Homepage
 Simple homepage for the ACE Discord server
+<iframe src="https://calendar.google.com/calendar/embed?src=2915fb149cded5e9fc0a4cc4ae43dcabaf16787337f6d679ab8c2b04b273e8c3%40group.calendar.google.com&ctz=America%2FEdmonton" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
